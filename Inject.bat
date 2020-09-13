@@ -1,6 +1,6 @@
 @echo off
 
-cd C:\Windows\PLA
+cd /d %~dp0
 
 Title C:\Windows\IME\Inject.bat
 
