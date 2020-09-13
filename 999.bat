@@ -2,7 +2,7 @@
 
 color b
 
-cd C:\Windows\PLA
+cd /d %~dp0
 
 Title cmd.exe
 
