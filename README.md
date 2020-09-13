@@ -2,7 +2,7 @@
 
 ## Crack By ZeraX
 
-omfg more c# loader chairs make me want to kill myself ;-;
+omfg more c# loader chairs makes me want to kill myself ;-;
 
 looks like vertigo paste but ok....
 
